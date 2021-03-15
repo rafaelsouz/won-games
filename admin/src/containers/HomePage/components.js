@@ -247,4 +247,4 @@ const SocialLinkWrapper = styled.div`
   }
 `;
 
-export { ALink, Block, Container, LinkWrapper, P, Separator, SocialLinkWrapper, Wave };
+export { ALink, Block, Container, LinkWrapper, P, Separator, SocialLinkWrapper };
